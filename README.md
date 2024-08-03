@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pranavmc
-- 👀 I’m interested in ...PROGRAMMING WORLD!
-- 🌱 I’m currently learning ...JAVA
+- 👀 I’m interested in ...DIFFERENT PROGRAMMING LANGUAGE.
+- 🌱 I’m currently learning ...PYTHON
+- 
 -
 
 <!---
